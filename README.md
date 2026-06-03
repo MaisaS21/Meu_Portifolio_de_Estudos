@@ -27,7 +27,7 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> <br>
 
 
-## 📬 Onde me encontrar:
+## 📬 Onde me encontrar:   (são badges com links, clique)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/maisa-silva-a503a0320)
 
 - [![Gmail](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=purple)](https://github.com/MaisaS21)
